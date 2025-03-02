@@ -12,4 +12,4 @@
     <p>Tryby gry: Survival
     <p>Dołącz do naszego Discorda: <a href="https://discord.gg/link">Kliknij tutaj</a></p>
 </body>
-</html>
+</html>kupamc.pl
