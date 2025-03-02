@@ -10,6 +10,6 @@
     <h1>Witaj na serwerze Kupamc!</h1>
     <p>IP: <strong>kupamc.aternos.me</strong></p>
     <p>Tryby gry: Survival
-    <p>Dołącz do naszego Discorda: <a href="https://discord.gg/link">Kliknij tutaj</a></p>
+    <p>Dołącz do naszego Discorda: <a href="https://discord.gg/sawePCZDNx">Kliknij tutaj</a></p>
 </body>
 </html>
