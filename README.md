@@ -7,9 +7,9 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Witaj na serwerze MojSerwer!</h1>
+    <h1>Witaj na serwerze Kupamc!</h1>
     <p>IP: <strong>mc.mojswerwer.pl</strong></p>
-    <p>Tryby gry: Survival, Skyblock, PvP</p>
+    <p>Tryby gry: Survival
     <p>Dołącz do naszego Discorda: <a href="https://discord.gg/link">Kliknij tutaj</a></p>
 </body>
 </html>
