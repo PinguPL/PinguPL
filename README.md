@@ -12,7 +12,7 @@
     <p><strong>Tryby gry:</strong> Survival</p>
     <p>Dołącz do naszego Discorda: <a href="https://discord.gg/ETPSX8Qw" target="_blank">Kliknij tutaj</a></p>
     nasz tt:
-https://www.tiktok.com/@kupamc.aternos.me?_t=ZN-8uMlQHtIcuk&_r=1
+https://www.tiktok.com/@kupamc.aternos.me?_t=ZN-8uMlQHtIcuk&_r=1                 
 
  
 </body>
