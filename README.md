@@ -3,26 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KupaMC - Serwer Minecraft</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            background-color: #222;
-            color: white;
-        }
-        h1 {
-            color: #ffcc00;
-        }
-        a {
-            color: #00aaff;
-            text-decoration: none;
-            font-weight: bold;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
+    <title>KupaMC - Serwer Mine
 </head>
 <body>
     <h1>Witaj na serwerze KupaMC!</h1>
