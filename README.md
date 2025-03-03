@@ -14,7 +14,7 @@
     nasz tt:
 https://www.tiktok.com/@kupamc.aternos.me?_t=ZN-8uMlQHtIcuk&_r=1
 
-    KupaMc nie jest w żaden sposób powiązany z Mojang, AB. 
+ 
 </body>
 </html>
-
+KupaMc nie jest w żaden sposób powiązany z Mojang, AB. 
