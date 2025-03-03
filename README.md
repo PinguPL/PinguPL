@@ -13,6 +13,7 @@
     <p>Dołącz do naszego Discorda: <a href="https://discord.gg/ETPSX8Qw" target="_blank">Kliknij tutaj</a></p>
     nasz tt:
 https://www.tiktok.com/@kupamc.aternos.me?_t=ZN-8uMlQHtIcuk&_r=1
+KupaMc nie jest w żaden sposób powiązany z Mojang, AB. / Kupamc server is in no way affiliated with Mojang, AB
 </body>
 </html>
 
